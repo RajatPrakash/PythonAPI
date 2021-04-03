@@ -1,0 +1,10 @@
+PythonAPI/
+API/API/__pycache__/__init__.cpython-38.pyc
+API/API/__pycache__/settings.cpython-38.pyc
+API/API/__pycache__/urls.cpython-38.pyc
+API/API/wsgi.py
+API/API/asgi.py
+API/API/__init__.py
+API/db.sqlite3
+API/manage.py
+Testing.py
