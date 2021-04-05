@@ -8,3 +8,4 @@ API/API/__init__.py
 API/db.sqlite3
 API/manage.py
 Testing.py
+.vscode/
